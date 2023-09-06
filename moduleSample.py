@@ -4,4 +4,3 @@ def sum() :
     sum=int(num1)+int(num2)
     print("Sum="+str(sum))
 
-sum()
