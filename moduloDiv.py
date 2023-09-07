@@ -6,6 +6,8 @@ if(y!=0) :
     print("The remainder is:"+str(z))
     if(y<0) :
         print("The divider is negative")
+    else :
+        print("The divider is positive")
 else :
     print("Division is not defined")
 
