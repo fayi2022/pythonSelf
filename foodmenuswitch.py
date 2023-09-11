@@ -1,4 +1,4 @@
-print("Motta Rice   1\nBiriyani     2\nFried Rice   3\nMandhi       4\nMajboos      5")
+print("Motta Rice   1\nBiriyani     2\nFried Rice   3\nMandhi       4\nMadbhi      5")
 choice=int(input("Enter your choice:"))
 if choice==1 :
     print("You ordered Motta Rice")
@@ -9,6 +9,6 @@ elif choice==3 :
 elif choice==4 :
     print("You ordered Mandhi")
 elif choice==5 :
-    print("You ordered Majboose")
+    print("You ordered Madbhi")
 else :
     print("Fool")
